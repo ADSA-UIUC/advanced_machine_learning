@@ -1,5 +1,5 @@
-# ADSA Spring 2018 Workshop: Python Series - AdvancedMachine Learning
-Intro to Machine Learning using Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
+# ADSA Spring 2018 Workshop: Python Series - Advanced Machine Learning
+Advanced Machine Learning using Jupyter/IPython notebook for the Association of Data Science and Analytics at UIUC.
 
 ## Running the Workshop
 * Download Enthought Canopy from here: https://store.enthought.com/downloads/
